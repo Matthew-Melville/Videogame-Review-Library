@@ -9,7 +9,7 @@ set_site_information(
     description="A Videogame Review Library",
     sources="Thanks to the Drafter docs and my study group.",
     planning=["plan.pdf", "design.pdf"],
-    links=[]
+    links=["https://github.com/Matthew-Melville/Videogame-Review-Library"]
 )
 hide_debug_information()
 set_website_framed(False)
